@@ -64,6 +64,9 @@ https://arxiv.org/abs/2402.03578
 ### Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 https://arxiv.org/abs/1703.03400
 
+### Plots Unlock Time-Series Understanding in Multimodal Models
+https://arxiv.org/abs/2410.02637
+
 
 ## Learning & Fine-Tuning
 
