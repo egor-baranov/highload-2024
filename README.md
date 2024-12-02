@@ -3,6 +3,10 @@ An Overview of AI-Assisted Development
 
 # Sources
 
+[Russian](https://github.com/egor-baranov/highload-2024/blob/master/Highload%202024%20RU.pdf)
+
+Higher resolution and english localization will be available later
+
 # Papers
 
 ## SDLC & Future
